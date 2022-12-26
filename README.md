@@ -103,4 +103,6 @@ program yang saya buat menjelaskan tentang program matrix dua dimensi yang menja
 
 ## Output
 ![image](https://user-images.githubusercontent.com/119504590/209554109-9ce3c248-8c1f-4b28-af16-51b1180fa5e0.png)
+![image](https://user-images.githubusercontent.com/119504590/209554350-30a1e2c0-7f8d-4ae4-b9a9-bfb95bab6222.png)
+
 
